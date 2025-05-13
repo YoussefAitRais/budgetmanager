@@ -1,4 +1,4 @@
-package org.budgetmanager.budgetmanager;
+package org.budgetmanager.budgetmanager.Controller;
 
 
 import org.springframework.web.bind.annotation.GetMapping;
