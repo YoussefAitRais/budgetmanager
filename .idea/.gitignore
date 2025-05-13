@@ -1,8 +1,78 @@
-# Default ignored files
-/shelf/
-/workspace.xml
-# Editor-based HTTP Client requests
-/httpRequests/
-# Datasource local storage ignored files
-/dataSources/
-/dataSources.local.xml
+/BM-backend/HELP.md
+/BM-backend/target/
+/BM-backend/!.mvn/wrapper/maven-wrapper.jar
+/BM-backend/!**/src/main/**/target/
+/BM-backend/!**/src/test/**/target/
+
+### STS ###
+/BM-backend/.apt_generated
+/BM-backend/.classpath
+/BM-backend/.factorypath
+/BM-backend/.project
+/BM-backend/.settings
+/BM-backend/.springBeans
+/BM-backend/.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/BM-backend/nbproject/private/
+/BM-backend/nbbuild/
+/BM-backend/dist/
+/BM-backend/nbdist/
+/BM-backend/.nb-gradle/
+/BM-backend/build/
+/BM-backend/!**/src/main/**/build/
+/BM-backend/!**/src/test/**/build/
+
+### VS Code ###
+/BM-backend/.vscode/
+
+
+
+# See https://docs.github.com/get-started/getting-started-with-git/ignoring-files for more about ignoring files.
+
+# Compiled output
+/BM-frontend/dist
+/BM-frontend/tmp
+/BM-frontend/out-tsc
+/BM-frontend/bazel-out
+
+# Node
+/BM-frontend/node_modules
+/BM-frontend/npm-debug.log
+/BM-frontend/yarn-error.log
+
+# IDEs and editors
+.idea/
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+
+# Visual Studio Code
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+.history/*
+
+# Miscellaneous
+/BM-frontend/.angular/cache
+/BM-frontend/.sass-cache/
+/BM-frontend/connect.lock
+/BM-frontend/coverage
+/BM-frontend/libpeerconnection.log
+/BM-frontend/testem.log
+/BM-frontend/typings
+
+# System files
+.DS_Store
+Thumbs.db
