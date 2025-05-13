@@ -10,6 +10,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class BudgetController {
     @GetMapping("/get")
     public String hello() {
-        return "Hello World";
+        return "Hello";
     }
+
 }
