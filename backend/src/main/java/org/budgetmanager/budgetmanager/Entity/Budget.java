@@ -16,5 +16,10 @@ public class Budget {
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private long id;
     private double budgetlimit;
-    private enum budgetType {};
+    public enum BudgetType {
+        FIXED,
+        VARIABLE,
+        SAVINGS,
+        OTHER
+    }
 }
