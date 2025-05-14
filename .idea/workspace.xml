@@ -5,14 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a9913570-8347-4ddb-9715-85c7f1f0f625" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Frontend/.idea/Frontend.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Frontend" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Frontend/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/src/app/app.component.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Frontend/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/src/app/app.component.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Frontend/src/app/app.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/src/app/app.config.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Frontend/src/main.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/src/main.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/backend/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/org/budgetmanager/budgetmanager/Controller/BudgetController.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/org/budgetmanager/budgetmanager/Controller/BudgetController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/backend/src/main/java/org/budgetmanager/budgetmanager/Entity/Budget.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/org/budgetmanager/budgetmanager/Entity/Budget.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/org/budgetmanager/budgetmanager/Repository/BudgetRepository.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +28,8 @@
       <list>
         <option value="Record" />
         <option value="Class" />
+        <option value="AnnotationType" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -44,13 +50,17 @@
     "RequestMappingsPanelOrder1": "1",
     "RequestMappingsPanelWidth0": "75",
     "RequestMappingsPanelWidth1": "75",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "Spring Boot.BudgetmanagerApplication.executor": "Run",
     "git-widget-placeholder": "Youssef",
     "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "reference.projectsettings.compiler.annotationProcessors"
+    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="org.budgetmanager.budgetmanager.Controller" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="org.budgetmanager.budgetmanager.Controller" />
     </key>
@@ -80,7 +90,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1747132715876</updated>
-      <workItem from="1747132731389" duration="6777000" />
+      <workItem from="1747132731389" duration="19835000" />
     </task>
     <servers />
   </component>
