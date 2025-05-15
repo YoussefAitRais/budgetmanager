@@ -1,9 +1,9 @@
 package org.budgetmanager.budgetmanager.Repository;
-
-import jakarta.transaction.Transaction;
+import  org.budgetmanager.budgetmanager.Entity.*;
 import org.springframework.data.jpa.repository.JpaRepository;
 
-public interface TransactionRepository extends JpaRepository<Transaction, Long> {
+
+public interface TransactionRepository extends JpaRepository<Transaction,Long> {
 
 
 }

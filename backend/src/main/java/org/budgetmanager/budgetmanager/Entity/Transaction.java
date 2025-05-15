@@ -1,23 +1,28 @@
 package org.budgetmanager.budgetmanager.Entity;
 
 import jakarta.persistence.*;
-import org.budgetmanager.budgetmanager.Utils.TransactionType;
+import lombok.AllArgsConstructor;
+import lombok.Data;
+import lombok.NoArgsConstructor;
 
-import java.time.LocalDateTime;
+import java.util.Date;
 
+@Entity
+
+@Data
+@AllArgsConstructor
+@NoArgsConstructor
 public class Transaction {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
-    private Long id;
+    private int id;
+    private double Montant;
+    private Date date;
+    private String Description;
+    private String Type ;
+    private String label;
 
-    private double montant;
 
-    private String description;
-
-    private LocalDateTime date;
-
-    @Enumerated(EnumType.STRING)
-    private TransactionType type;
 
 
 
