@@ -7,6 +7,7 @@
     <list default="true" id="a9913570-8347-4ddb-9715-85c7f1f0f625" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/backend/src/main/java/org/budgetmanager/budgetmanager/Config/CorsConfig.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+
       <change beforePath="$PROJECT_DIR$/backend/src/main/java/org/budgetmanager/budgetmanager/Controller/BudgetController.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/org/budgetmanager/budgetmanager/Controller/BudgetController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/backend/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/resources/application.properties" afterDir="false" />
     </list>
@@ -21,6 +22,7 @@
         <option value="Record" />
         <option value="Class" />
         <option value="AnnotationType" />
+        <option value="Enum" />
         <option value="Interface" />
       </list>
     </option>
@@ -42,12 +44,17 @@
     "RequestMappingsPanelOrder1": "1",
     "RequestMappingsPanelWidth0": "75",
     "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "Spring Boot.BudgetmanagerApplication.executor": "Run",
     "git-widget-placeholder": "Merging Youssef",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices",
+
     "ts.external.directory.path": "C:\\Users\\youss\\Documents\\IdeaProjects\\BudgetManager\\Frontend\\node_modules\\typescript\\lib"
+
   }
 }]]></component>
   <component name="RecentsManager">
@@ -55,6 +62,7 @@
       <recent name="org.budgetmanager.budgetmanager.Controller" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="org.budgetmanager.budgetmanager" />
       <recent name="org.budgetmanager.budgetmanager.Controller" />
     </key>
   </component>
@@ -83,6 +91,8 @@
       <option name="presentableId" value="Default" />
       <updated>1747132715876</updated>
       <workItem from="1747132731389" duration="21712000" />
+      <workItem from="1747299134893" duration="2184000" />
+      <workItem from="1747491908292" duration="3996000" />
     </task>
     <servers />
   </component>
